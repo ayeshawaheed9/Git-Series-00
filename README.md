@@ -25,3 +25,9 @@ Python and R will help me explore movement and physiological data and connect th
 Git will help me organize my research, track my work, and collaborate with others.
 I want to go beyond simply building models and understand the real scientific problems they are solving.
 And I’m excited to learn all of this while discovering a new field of science in the beautiful city of Montpellier.
+
+
+
+## Local image from my PC:
+
+![Local Image](images/images.jpg)
