@@ -31,3 +31,13 @@ And I’m excited to learn all of this while discovering a new field of science 
 ## Local image from my PC:
 
 ![Local Image](images/images.jpg)
+
+
+
+## What I Learned
+
+I learned the basics of Git and GitHub, including repositories, branches, commits, pushing, and merging changes.
+I learned how to create and publish branches, make changes, and merge them back into the main branch.
+I also learned how to add images to a README using Markdown and relative file paths.
+The main commands I used were `git add`, `git commit`, `git push`, `git branch` and `git checkout`.
+Overall, it took me approximately **30 Minutes** to complete this assignment.
